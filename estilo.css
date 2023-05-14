@@ -1,0 +1,54 @@
+#titulo1 {
+    text-align: center;
+    font-size: 31px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #005f69;
+}
+
+.div1 {
+    text-align: center;
+    border-color: #005f69;
+    border-style: solid;
+    border-radius: 50px;
+    margin: 100px;
+}
+
+#titulo2 {
+    text-align: left;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.body1 {
+    background-color: #679267;
+}
+
+.AS {
+    background-color: #A3C1AD;
+}
+
+.div2 {
+    text-align: center;
+    border-color: #005f69;
+    border-style: solid;
+    border-radius: 50px;
+    margin: 100px;
+}
+
+table {
+    text-align: center;
+    border-color: teal;
+    border-style: solid;
+    font-family: 'Darumadrop One', cursive;
+}
+
+#div3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h6 {
+    font-size: 12px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
